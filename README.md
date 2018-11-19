@@ -1,11 +1,12 @@
 # Lyrae
 
-Lyrae is a MVLC(Model-View-Logic-Controller) framework for javascript, developed by [@KsRyY](github.com/ksryy)
+LyraeJS 是一个由 [@KsRyY](github.com/ksryy) 开发的MVLC(Model-View-Logic-Controller)框架
 
-Repo: [lyraejs](https://github.com/enwrap/lyraejs) [lyrae-cli](https://github.com/enwrap/lyrae-cli) [lyraejs-pug](https://github.com/enwrap/lyrae-pug)
+Repo: [lyraejs](https://github.com/lyraejs/lyraejs) [lyrae-cli](https://github.com/lyraejs/lyrae-cli) [lyraejs-pug](https://github.com/lyraejs/lyrae-pug)
 
-## Developer
+## 开发者名单
 
 [@KsRyY](github.com/ksryy)
 
-*I really want someone help me develop this project. PR(Pull Request) Welcome!*
+***我真的很希望有人能帮忙开发这几个项目, 所以我希望大家能积极地提PR***
+
